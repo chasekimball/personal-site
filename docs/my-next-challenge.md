@@ -2,7 +2,7 @@
 
 ## About me:
 
-In recent years my work has focused on transforming processes within organizations to create dramatically better outcomes. I accomplish this by implementing better technologies and realigning organizational structures. For example:
+In recent years my work has focused on building or transforming processes within organizations to create dramatically better outcomes. I accomplish this by implementing better technologies and realigning organizational structures. For example:
 
 - I guided the implementation of a modern correspondence management system for the White House’s [Office of Presidential Correspondence](https://www.nytimes.com/2017/01/17/magazine/what-americans-wrote-to-obama.html?_r=0).
   - *The system is used by over 600 White House staff and volunteers to track constituent relationships. We overhauled dozens of business processes: tasks that took three days to complete now take twenty minutes.*
